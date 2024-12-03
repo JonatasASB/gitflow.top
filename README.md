@@ -1,2 +1,3 @@
 # gitflow.top
-Alteração feita diretamento no Github
+Alteração feita diretamente no Github
+Segunda alteração feita direta no Github
